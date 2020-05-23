@@ -1,0 +1,16 @@
+{
+  "name": "Orange Bobby",
+  "version": "1.0.0",
+  "description": "",
+  "main": "orangeBlobby.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "RossEm",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.1.1",
+    "ffmpeg-static": "^4.2.2",
+    "minecraft-server-util": "^1.1.0"
+  }
+}
